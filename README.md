@@ -1,7 +1,7 @@
 - 👋 Hi, I’m D Prajagar
 - 👀 I’m interested in explore new things through coding
-- 🌱 I’m currently learning Engineering
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Btech CSE in Artificial intelligence and Machine Learning 
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me https://www.instagram.com/d_.p_8/
 
 <!---

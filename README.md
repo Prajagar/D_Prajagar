@@ -2,5 +2,5 @@
 - 👀 I’m interested in explore new things through coding
 - 🌱 I’m currently learning Btech CSE in Artificial intelligence and Machine Learning 
 - 💞️ I’m looking for something new
-- 📫 How to reach me prajag.devamithra@gmail.com 
-- 🤖 follow me on https:https://www.instagram.com/d_prajagar/
+- 📫 Reach me on: prajag.devamithra@gmail.com 
+- 🤖 Follow me on: <a href ="https://www.instagram.com/d_prajagar/">d_prajagar</a>

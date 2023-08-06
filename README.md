@@ -1,7 +1,4 @@
 # 👋 Hi, I’m D Prajagar
-
-![Profile Picture]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fd-prajagar-b659071b1&psig=AOvVaw36bHIiJyYw1tr5LAjh25uT&ust=1691405163227000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiRsLLtx4ADFQAAAAAdAAAAABAE")
-
 👀 Welcome to my GitHub! I’m passionate about exploring new things through coding, and I'm currently pursuing a B.Tech in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning.
 
 ## 🌱 About Me

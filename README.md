@@ -1,6 +1,6 @@
 - 👋 Hi, I’m D Prajagar
-- 👀 I’m interested in explore new things through coding
+- 👀 I’m interested in exploring new things through coding
 - 🌱 I’m currently learning Btech CSE in Artificial intelligence and Machine Learning 
-- 💞️ I’m looking for something new
+- 💞️ Exploring new fields
 - 📫 Reach me on: prajag.devamithra@gmail.com 
 - 🤖 Follow me on: <a href ="https://www.instagram.com/d_prajagar/">d_prajagar</a>
